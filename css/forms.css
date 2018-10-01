@@ -1,0 +1,45 @@
+.fancy.field{
+	margin-bottom:30px;
+}
+	
+.fancy input[type=text]{
+	border-width:0px;
+	border-radius: 5px;
+	padding:10px;
+	display:block;
+	width:100%;
+}
+
+textarea{
+	border-width:0px;
+	border-radius: 5px;
+	padding:10px;
+	display:block;
+	width:100%;
+}
+
+.fancy input[type=submit]{
+	border-radius:20px;
+	margin-top:30px;
+	border-width:1px;
+	border-color:white;
+	background:none;
+	color:white;
+	width:200px;
+	padding:15px;
+	float:right;
+}
+	
+.fancy label{
+	display:none;
+}
+
+input[type=checkbox]{
+	border:solid 1px white;
+	background:none;
+	padding:20px;
+	width:30px;
+	height:30px;
+    
+	outline:0;
+}
